@@ -1,3 +1,3 @@
 FROM node:slim
 
-RUN npm install -g raml2html
+RUN npm install -g raml2html@4
